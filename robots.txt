@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://willedtech.github.io/sitemap.xml
