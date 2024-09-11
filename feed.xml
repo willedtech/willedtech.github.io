@@ -3,7 +3,7 @@
     <title>WillEdTech</title>
     <link href="https://willedtech.github.io/feed.xml" rel="self" />
     <link href="https://willedtech.github.io" />
-    <updated>2024-09-11T08:38:39-05:00</updated>
+    <updated>2024-09-11T13:45:00-05:00</updated>
     <author>
         <name>William Humberto Herrera Rey</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://willedtech.github.io/loro-volador/"/>
         <id>https://willedtech.github.io/loro-volador/</id>
         <media:content url="https://willedtech.github.io/media/posts/5/Loro-Volador-0-3-screenshot-2.png" medium="image" />
+            <category term="Proyecto de Imágenes"/>
 
         <updated>2024-09-11T08:33:08-05:00</updated>
             <summary>
@@ -80,6 +81,7 @@
         <link href="https://willedtech.github.io/pinza-para-pintar-nariz-para-borrar/"/>
         <id>https://willedtech.github.io/pinza-para-pintar-nariz-para-borrar/</id>
         <media:content url="https://willedtech.github.io/media/posts/4/Pinza-Para-Pintar-Nariz-Para-Borrar-0-2-screenshot.png" medium="image" />
+            <category term="Proyecto de Imágenes"/>
 
         <updated>2024-09-10T13:47:42-05:00</updated>
             <summary>
@@ -149,6 +151,7 @@
         <link href="https://willedtech.github.io/dibujando-con-los-dedos/"/>
         <id>https://willedtech.github.io/dibujando-con-los-dedos/</id>
         <media:content url="https://willedtech.github.io/media/posts/3/Dibujando-con-los-dedos.png" medium="image" />
+            <category term="Proyecto de Imágenes"/>
 
         <updated>2024-09-10T08:32:21-05:00</updated>
             <summary>
