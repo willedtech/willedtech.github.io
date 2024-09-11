@@ -28,7 +28,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://willedtech.github.io/media/posts/4/Pinza-Para-Pintar-Nariz-Para-Borrar-0-2-screenshot.png" class="type:primaryImage" alt="" /></p>
-                <p><a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a> es un modelo de Visión por Computador que utiliza redes neuronales convolucionales (CNN) para detectar las posiciones de las articulaciones del cuerpo humano en imágenes y videos. Esta tecnología puede identificar puntos clave como los codos, las rodillas y, por supuesto, los dedos y la nariz.</p>
+                <p><a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> es un modelo de Visión por Computador que utiliza redes neuronales convolucionales (CNN) para detectar las posiciones de las articulaciones del cuerpo humano en imágenes y videos. Esta tecnología puede identificar puntos clave como los codos, las rodillas y, por supuesto, los dedos y la nariz.</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/687nnTwQiU0?si=eCXNzcaVUvLPOz_G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
 <div class="post__toc">
 <h3>Tabla de contenidos</h3>
@@ -44,30 +44,30 @@
 </ul>
 </div>
 <h3 id="mcetoc_1i7ekc1nn66">Aplicación Práctica: Control de Aerosoles</h3>
-<p>Imagina un escenario donde puedes controlar un aerosol simplemente moviendo tu dedo índice. Con <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a>, esto es posible. Aquí te mostramos cómo:</p>
+<p>Imagina un escenario donde puedes controlar un aerosol simplemente moviendo tu dedo índice. Con <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a>, esto es posible. Aquí te mostramos cómo:</p>
 <ol>
-<li><strong>Configuración Inicial</strong>: Instala <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a> en tu dispositivo y asegúrate de que la cámara esté bien posicionada para capturar tus movimientos.</li>
-<li><strong>Detección del Dedo Índice</strong>: Utiliza <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a> para identificar la posición de tu dedo índice. Puedes programar la aplicación para que reconozca cuando tu dedo índice está en una posición específica y, en ese momento, activar el aerosol.</li>
-<li><strong>Rociar el Aerosol</strong>: Una vez que <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a> detecte la posición correcta de tu dedo índice, un microcontrolador puede enviar una señal para activar el aerosol, permitiéndote rociar con precisión.</li>
+<li><strong>Configuración Inicial</strong>: Instala <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> en tu dispositivo y asegúrate de que la cámara esté bien posicionada para capturar tus movimientos.</li>
+<li><strong>Detección del Dedo Índice</strong>: Utiliza <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> para identificar la posición de tu dedo índice. Puedes programar la aplicación para que reconozca cuando tu dedo índice está en una posición específica y, en ese momento, activar el aerosol.</li>
+<li><strong>Rociar el Aerosol</strong>: Una vez que <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> detecte la posición correcta de tu dedo índice, un microcontrolador puede enviar una señal para activar el aerosol, permitiéndote rociar con precisión.</li>
 </ol>
 <h3 id="mcetoc_1i7ekc1nn67">Borrar con la Nariz</h3>
-<p>Además de controlar el aerosol, también puedes usar <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a> para borrar con la nariz. Este es un proceso similar:</p>
+<p>Además de controlar el aerosol, también puedes usar <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> para borrar con la nariz. Este es un proceso similar:</p>
 <ol>
-<li><strong>Detección de la Nariz</strong>: Configura <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet </a>para identificar la posición de tu nariz.</li>
+<li><strong>Detección de la Nariz</strong>: Configura <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet </a>para identificar la posición de tu nariz.</li>
 <li><strong>Acción de Borrado</strong>: Programa la aplicación para que, cuando tu nariz se mueva a una posición específica, se active una función de borrado en una pizarra digital o cualquier otra superficie interactiva.</li>
 </ol>
 <h3 id="mcetoc_1i7ekc1nn68">Beneficios y Aplicaciones</h3>
-<p>El uso de <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a> y la IA para estas tareas tiene múltiples beneficios:</p>
+<p>El uso de <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> y la IA para estas tareas tiene múltiples beneficios:</p>
 <ul>
 <li><strong>Precisión</strong>: La detección de posturas permite un control preciso y eficiente.</li>
 <li><strong>Interactividad</strong>: Hace que la interacción con dispositivos sea más intuitiva y natural.</li>
 <li><strong>Innovación</strong>: Abre nuevas posibilidades en campos como la educación, la salud y el entretenimiento.</li>
 </ul>
 <h3 id="mcetoc_1i7ekc1nn69">Conclusión</h3>
-<p>La combinación de <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a> y la Inteligencia Artificial está transformando la manera en que interactuamos con el mundo. Desde controlar aerosoles con el dedo índice hasta borrar con la nariz, las posibilidades son infinitas. ¡La tecnología está aquí para hacer nuestras vidas más fáciles y emocionantes!</p>
+<p>La combinación de <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> y la Inteligencia Artificial está transformando la manera en que interactuamos con el mundo. Desde controlar aerosoles con el dedo índice hasta borrar con la nariz, las posibilidades son infinitas. ¡La tecnología está aquí para hacer nuestras vidas más fáciles y emocionantes!</p>
 <h4 id="mcetoc_1i7actnb73q">Ejemplo de uso</h4>
 <ol>
-<li>Ingrese a <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a>.</li>
+<li>Ingrese a <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a>.</li>
 <li>Descargue el archivo <a href="https://willedtech.github.io/media/files/Pinza para pintar, nariz para borrar.sb3" target="_blank" rel="noopener noreferrer">Pinza para pintar, nariz para borrar.sb3</a></li>
 <li>Cargue el archivo en la plataforma.</li>
 <li>Inicie simulación en la Banderita Verde.</li>
@@ -94,7 +94,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://willedtech.github.io/media/posts/3/Dibujando-con-los-dedos.png" class="type:primaryImage" alt="" /></p>
-                <p>En la era digital, la creatividad y la tecnología se entrelazan de maneras fascinantes. Una de las innovaciones más emocionantes es la capacidad de dibujar y borrar utilizando solo nuestros dedos, gracias a aplicaciones como <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a> y la inteligencia artificial (IA). En este artículo, exploraremos cómo puedes aprovechar estas herramientas para crear arte digital de una manera intuitiva y divertida.</p>
+                <p>En la era digital, la creatividad y la tecnología se entrelazan de maneras fascinantes. Una de las innovaciones más emocionantes es la capacidad de dibujar y borrar utilizando solo nuestros dedos, gracias a aplicaciones como <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> y la inteligencia artificial (IA). En este artículo, exploraremos cómo puedes aprovechar estas herramientas para crear arte digital de una manera intuitiva y divertida.</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/Kb4d2fQQi-g?si=zLmepJ0cTbGtK_kJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
 <div class="post__toc">
 <h3>Tabla de contenidos</h3>
@@ -109,12 +109,12 @@
 </li>
 </ul>
 </div>
-<h3 id="mcetoc_1i7e1vml25">¿Qué es <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a>?<br><a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer"></a></h3>
-<p><a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet </a>es un modelo de aprendizaje automático que puede detectar la posición de las partes del cuerpo en tiempo real utilizando la cámara de tu dispositivo. Originalmente desarrollado por Google, <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a> es capaz de identificar puntos clave en el cuerpo humano, como los codos, las rodillas y, por supuesto, los dedos.</p>
+<h3 id="mcetoc_1i7e1vml25">¿Qué es <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a>?<br><a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer"></a></h3>
+<p><a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet </a>es un modelo de aprendizaje automático que puede detectar la posición de las partes del cuerpo en tiempo real utilizando la cámara de tu dispositivo. Originalmente desarrollado por Google, <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> es capaz de identificar puntos clave en el cuerpo humano, como los codos, las rodillas y, por supuesto, los dedos.</p>
 <h3 id="mcetoc_1i7e24t6v1n">Cómo Funciona</h3>
 <ul>
-<li><strong>Configuración Inicial:</strong> Para empezar, necesitas una cámara web y acceso a la aplicación <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a>. Puedes encontrar implementaciones de <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a> en varias plataformas, incluyendo <a href="https://www.tensorflow.org/?hl=es-419" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">TensorFlow.js</a>, que permite ejecutar el modelo directamente en tu navegador.</li>
-<li><strong>Dibujar con el Dedo Índice: </strong>Una vez que <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a> está configurado, puedes usar tu dedo índice como un pincel. La aplicación detecta la posición de tu dedo y traza líneas en la pantalla siguiendo tus movimientos. Es como tener un pincel invisible que responde a cada gesto.</li>
+<li><strong>Configuración Inicial:</strong> Para empezar, necesitas una cámara web y acceso a la aplicación <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a>. Puedes encontrar implementaciones de <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> en varias plataformas, incluyendo <a href="https://www.tensorflow.org/?hl=es-419" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">TensorFlow.js</a>, que permite ejecutar el modelo directamente en tu navegador.</li>
+<li><strong>Dibujar con el Dedo Índice: </strong>Una vez que <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> está configurado, puedes usar tu dedo índice como un pincel. La aplicación detecta la posición de tu dedo y traza líneas en la pantalla siguiendo tus movimientos. Es como tener un pincel invisible que responde a cada gesto.</li>
 <li><strong>Borrar con el Dedo Pulgar: </strong>Para borrar, simplemente usa tu dedo pulgar. La aplicación puede ser programada para reconocer cuando el pulgar toca la pantalla y activar la función de borrado. Esto permite una transición fluida entre dibujar y borrar, haciendo que el proceso creativo sea más natural.</li>
 </ul>
 <h3 id="mcetoc_1i7e24t6v1o">Beneficios de Usar IA en el Arte Digital</h3>
@@ -124,10 +124,10 @@
 <li><strong>Accesibilidad: </strong>Esta tecnología puede ser especialmente útil para personas con discapacidades, ya que elimina la necesidad de herramientas físicas como lápices o pinceles.</li>
 </ul>
 <h3 id="mcetoc_1i7e24t6v1p"><strong>Conclusión</strong></h3>
-<p>La combinación de <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a> y la inteligencia artificial abre un mundo de posibilidades para los artistas digitales. Dibujar con el dedo índice y borrar con el pulgar no solo es una forma innovadora de crear arte, sino que también hace que el proceso sea más accesible y divertido. Si aún no has probado esta tecnología, te animo a que lo hagas y descubras una nueva dimensión de la creatividad.</p>
+<p>La combinación de <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> y la inteligencia artificial abre un mundo de posibilidades para los artistas digitales. Dibujar con el dedo índice y borrar con el pulgar no solo es una forma innovadora de crear arte, sino que también hace que el proceso sea más accesible y divertido. Si aún no has probado esta tecnología, te animo a que lo hagas y descubras una nueva dimensión de la creatividad.</p>
 <h4 id="mcetoc_1i7actnb73q">Ejemplo de uso</h4>
 <ol>
-<li>Ingrese a <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a>.</li>
+<li>Ingrese a <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a>.</li>
 <li>Descargue el archivo <a href="https://willedtech.github.io/media/files/Controlando con los dedos.sb3" target="_blank" rel="noopener noreferrer">Controlando con los dedos.sb3</a><a href="https://willedtech.github.io/media/files/Deteniendo al Perrito.sb3" target="null"></a></li>
 <li>Cargue el archivo en la plataforma.</li>
 <li>Inicie simulación en la Banderita Verde.</li>
@@ -155,7 +155,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://willedtech.github.io/media/posts/1/Snapshot.PNG" class="type:primaryImage" alt="" /></p>
-                <p>En el mundo de la inteligencia artificial (IA), las aplicaciones prácticas y creativas están en constante expansión. Una de las herramientas más innovadoras que he encontrado recientemente es <a href="https://playground.raise.mit.edu/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">POSEBLOCKS</a>, un proyecto del MIT Media Lab Personal Robots Group que permite a los usuarios diseñar sistemas interactivos de IA basados en el movimiento.</p>
+                <p>En el mundo de la inteligencia artificial (IA), las aplicaciones prácticas y creativas están en constante expansión. Una de las herramientas más innovadoras que he encontrado recientemente es <a href="https://playground.raise.mit.edu/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">POSEBLOCKS</a>, un proyecto del MIT Media Lab Personal Robots Group que permite a los usuarios diseñar sistemas interactivos de IA basados en el movimiento.</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/26nkbr0x3tE?si=TkZXPpTGMNgqDkLp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
 <div class="post__toc">
 <h3>Tabla de contenidos</h3>
@@ -174,7 +174,7 @@
 <p>Una de las aplicaciones más fascinantes de esta tecnología es el control del movimiento de un perrito virtual al poner o quitar la mano de la cara. Aquí te explico cómo funciona:</p>
 <ol>
 <li><strong>Configuración Inicial: </strong>Utilizando PoseNet, se puede rastrear la posición de la mano y la cara del usuario. PoseNet es un modelo de aprendizaje automático que puede detectar las posiciones de varias partes del cuerpo en tiempo real.</li>
-<li><strong>Entrenamiento del Modelo: </strong>Con <a href="https://teachablemachine.withgoogle.com/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Teachable Machine</a>, se entrena un modelo para reconocer dos estados: mano en la cara y mano fuera de la cara. Este modelo se integra en el proyecto de PoseNet para que pueda reaccionar a estos gestos específicos.</li>
+<li><strong>Entrenamiento del Modelo: </strong>Con <a href="https://teachablemachine.withgoogle.com/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">Teachable Machine</a>, se entrena un modelo para reconocer dos estados: mano en la cara y mano fuera de la cara. Este modelo se integra en el proyecto de PoseNet para que pueda reaccionar a estos gestos específicos.</li>
 <li><strong>Interacción con el Perrito Virtual: </strong>Una vez que el modelo está entrenado, se programa para que el perrito virtual realice diferentes movimientos según la posición de la mano. Por ejemplo, si la mano está en la cara, el perrito puede sentarse; si la mano se quita de la cara, el perrito puede empezar a caminar.</li>
 </ol>
 <h3 id="mcetoc_1i7ackmeq3d"><strong>Beneficios Educativos</strong></h3>
@@ -186,7 +186,7 @@
 </blockquote>
 <h4 id="mcetoc_1i7actnb73q">Ejemplo de uso</h4>
 <ol>
-<li>Ingrese a <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">PoseNet</a>.</li>
+<li>Ingrese a <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a>.</li>
 <li>Descargue el archivo <a href="https://willedtech.github.io/media/files/Deteniendo al Perrito.sb3">Deteniendo al Perrito.sb3</a></li>
 <li>Cargue el archivo en la plataforma.</li>
 <li>Inicie simulación en la Banderita Verde.</li>
