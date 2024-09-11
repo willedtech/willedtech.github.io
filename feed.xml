@@ -3,12 +3,75 @@
     <title>WillEdTech</title>
     <link href="https://willedtech.github.io/feed.xml" rel="self" />
     <link href="https://willedtech.github.io" />
-    <updated>2024-09-11T08:22:04-05:00</updated>
+    <updated>2024-09-11T08:38:39-05:00</updated>
     <author>
         <name>William Humberto Herrera Rey</name>
     </author>
     <id>https://willedtech.github.io</id>
 
+    <entry>
+        <title>Loro Volador</title>
+        <author>
+            <name>William Humberto Herrera Rey</name>
+        </author>
+        <link href="https://willedtech.github.io/loro-volador/"/>
+        <id>https://willedtech.github.io/loro-volador/</id>
+        <media:content url="https://willedtech.github.io/media/posts/5/Loro-Volador-0-3-screenshot-2.png" medium="image" />
+
+        <updated>2024-09-11T08:33:08-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://willedtech.github.io/media/posts/5/Loro-Volador-0-3-screenshot-2.png" alt="" />
+                    ¿Alguna vez has imaginado controlar un loro pirata con solo tus gestos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://willedtech.github.io/media/posts/5/Loro-Volador-0-3-screenshot-2.png" class="type:primaryImage" alt="" /></p>
+                <p>¿Alguna vez has imaginado controlar un loro pirata con solo tus gestos faciales? Gracias a la combinación de <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> y la Inteligencia Artificial (IA), esta fantasía puede convertirse en realidad. En esta publicación, exploraremos cómo esta tecnología hace posible esta experiencia y cómo puede ser implementada pedagógicamente en el aula.</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/2_5w1m5U8JU?si=uQtUxuUE4lhfd97H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="post__toc">
+<h3>Tabla de contenidos</h3>
+<ul>
+<li><a href="#mcetoc_1i7gkh3i7k">¿Qué es PoseNet?</a></li>
+<li><a href="#mcetoc_1i7gkh3i7l">La Magia Detrás del Loro Pirata</a></li>
+<li><a href="#mcetoc_1i7gkh3i7m">Implementación Pedagógica</a></li>
+<li><a href="#mcetoc_1i7gkh3i7n">Conclusión</a></li>
+</ul>
+</div>
+<h3 id="mcetoc_1i7gkh3i7k">¿Qué es <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a>?</h3>
+<p><a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> es una aplicación de Visión por Computador que utiliza redes neuronales convolucionales (CNN) para detectar la postura y los movimientos del cuerpo humano en tiempo real. Originalmente diseñada para identificar posiciones corporales, <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> se ha adaptado para reconocer gestos faciales, como el movimiento de los ojos y las cejas.</p>
+<h3 id="mcetoc_1i7gkh3i7l">La Magia Detrás del Loro Pirata</h3>
+<p>Para crear un loro pirata que responda a tus gestos faciales, se necesita una combinación de hardware y software:</p>
+<ol>
+<li><strong>Cámara Web</strong>: Captura los movimientos faciales en tiempo real.</li>
+<li><strong>PoseNet</strong>: Analiza los datos de la cámara y detecta los gestos faciales.</li>
+<li><strong>Modelo de IA</strong>: Interpreta los gestos y los traduce en movimientos del loro pirata.</li>
+<li><strong>Software de Animación</strong>: Controla el modelo 3D del loro pirata, haciendo que responda a los gestos detectados.</li>
+</ol>
+<h3 id="mcetoc_1i7gkh3i7m">Implementación Pedagógica</h3>
+<p>La integración de esta tecnología en el aula puede tener múltiples beneficios educativos:</p>
+<ol>
+<li><strong>Fomento de la Creatividad</strong>: Los estudiantes pueden diseñar sus propios personajes y controlar sus movimientos, fomentando la creatividad y el pensamiento crítico.</li>
+<li><strong>Aprendizaje Interactivo</strong>: La interacción con personajes animados puede hacer que el aprendizaje sea más atractivo y divertido.</li>
+<li><strong>Desarrollo de Habilidades Técnicas</strong>: Los estudiantes pueden aprender sobre Visión por Computador, IA y programación mientras crean y controlan sus personajes.</li>
+<li><strong>Inclusión</strong>: Esta tecnología puede ser utilizada para crear experiencias de aprendizaje inclusivas, permitiendo a estudiantes con discapacidades motoras interactuar con el contenido educativo de nuevas maneras.</li>
+</ol>
+<h3 id="mcetoc_1i7gkh3i7n">Conclusión</h3>
+<p>El uso de <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> y la IA para controlar un loro pirata con gestos faciales es una muestra fascinante de cómo la tecnología puede transformar la educación. No solo hace que el aprendizaje sea más interactivo y divertido, sino que también abre nuevas oportunidades para el desarrollo de habilidades técnicas y creativas en los estudiantes.</p>
+<blockquote>
+<p>¡Atrévete y haz caras divertidas!</p>
+</blockquote>
+<h4 id="mcetoc_1i7actnb73q">Ejemplo de uso</h4>
+<ol>
+<li>Ingrese a <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a>.</li>
+<li>Descargue el archivo Loro Volador.sb3</li>
+<li>Cargue el archivo en la plataforma.</li>
+<li>Inicie simulación en la Banderita Verde.</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pinza para pintar, nariz para borrar</title>
         <author>
