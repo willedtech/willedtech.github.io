@@ -3,7 +3,7 @@
     <title>WillEdTech</title>
     <link href="https://willedtech.github.io/feed.xml" rel="self" />
     <link href="https://willedtech.github.io" />
-    <updated>2024-09-13T11:04:58-05:00</updated>
+    <updated>2024-09-13T11:08:02-05:00</updated>
     <author>
         <name>William Humberto Herrera Rey</name>
     </author>
@@ -16,19 +16,19 @@
         </author>
         <link href="https://willedtech.github.io/loro-volador/"/>
         <id>https://willedtech.github.io/loro-volador/</id>
-        <media:content url="https://willedtech.github.io/media/posts/5/Loro-Volador-0-3-screenshot-2.png" medium="image" />
+        <media:content url="https://willedtech.github.io/media/posts/5/Loro-Volador.gif" medium="image" />
             <category term="Proyecto de Imágenes"/>
 
         <updated>2024-09-11T08:33:08-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://willedtech.github.io/media/posts/5/Loro-Volador-0-3-screenshot-2.png" alt="" />
+                        <img src="https://willedtech.github.io/media/posts/5/Loro-Volador.gif" alt="" />
                     ¿Alguna vez has imaginado controlar un loro pirata con solo tus gestos&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://willedtech.github.io/media/posts/5/Loro-Volador-0-3-screenshot-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://willedtech.github.io/media/posts/5/Loro-Volador.gif" class="type:primaryImage" alt="" /></p>
                 <p>¿Alguna vez has imaginado controlar un loro pirata con solo tus gestos faciales? Gracias a la combinación de <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> y la Inteligencia Artificial (IA), esta fantasía puede convertirse en realidad. En esta publicación, exploraremos cómo esta tecnología hace posible esta experiencia y cómo puede ser implementada pedagógicamente en el aula.</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/2_5w1m5U8JU?si=uQtUxuUE4lhfd97H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
 <div class="post__toc">
@@ -80,19 +80,19 @@
         </author>
         <link href="https://willedtech.github.io/pinza-para-pintar-nariz-para-borrar/"/>
         <id>https://willedtech.github.io/pinza-para-pintar-nariz-para-borrar/</id>
-        <media:content url="https://willedtech.github.io/media/posts/4/Pinza-Para-Pintar-Nariz-Para-Borrar-0-2-screenshot.png" medium="image" />
+        <media:content url="https://willedtech.github.io/media/posts/4/Pinza-Para-Pintar-Nariz-Para-Borrar.gif" medium="image" />
             <category term="Proyecto de Imágenes"/>
 
         <updated>2024-09-10T13:47:42-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://willedtech.github.io/media/posts/4/Pinza-Para-Pintar-Nariz-Para-Borrar-0-2-screenshot.png" alt="" />
+                        <img src="https://willedtech.github.io/media/posts/4/Pinza-Para-Pintar-Nariz-Para-Borrar.gif" alt="" />
                     PoseNet es un modelo de Visión por Computador que utiliza redes neuronales&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://willedtech.github.io/media/posts/4/Pinza-Para-Pintar-Nariz-Para-Borrar-0-2-screenshot.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://willedtech.github.io/media/posts/4/Pinza-Para-Pintar-Nariz-Para-Borrar.gif" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> es un modelo de Visión por Computador que utiliza redes neuronales convolucionales (CNN) para detectar las posiciones de las articulaciones del cuerpo humano en imágenes y videos. Esta tecnología puede identificar puntos clave como los codos, las rodillas y, por supuesto, los dedos y la nariz.</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/687nnTwQiU0?si=eCXNzcaVUvLPOz_G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
 <div class="post__toc">
