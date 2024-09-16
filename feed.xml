@@ -3,12 +3,78 @@
     <title>WillEdTech</title>
     <link href="https://willedtech.github.io/feed.xml" rel="self" />
     <link href="https://willedtech.github.io" />
-    <updated>2024-09-13T11:08:02-05:00</updated>
+    <updated>2024-09-16T15:17:15-05:00</updated>
     <author>
         <name>William Humberto Herrera Rey</name>
     </author>
     <id>https://willedtech.github.io</id>
 
+    <entry>
+        <title>Me Siento</title>
+        <author>
+            <name>William Humberto Herrera Rey</name>
+        </author>
+        <link href="https://willedtech.github.io/me-siento/"/>
+        <id>https://willedtech.github.io/me-siento/</id>
+        <media:content url="https://willedtech.github.io/media/posts/6/Me-Siento.gif" medium="image" />
+
+        <updated>2024-09-16T15:11:27-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://willedtech.github.io/media/posts/6/Me-Siento.gif" alt="" />
+                    En la era digital, la Inteligencia Artificial (IA) ha revolucionado la forma&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://willedtech.github.io/media/posts/6/Me-Siento.gif" class="type:primaryImage" alt="" /></p>
+                <p>En la era digital, la Inteligencia Artificial (IA) ha revolucionado la forma en que interactuamos con la tecnología. Una de las aplicaciones más fascinantes es el uso de <strong><a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a></strong> para realizar cambios de imagen basados en los gestos del rostro. En este artículo, exploraremos cómo esta tecnología hace posible esta experiencia y cómo puede implementarse pedagógicamente.</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/b7kibjbV9lo?si=oJcX5Q66EGUOmgBD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="post__toc">
+<h3>Tabla de contenidos</h3>
+<ul>
+<li><a href="#mcetoc_1i7u7c4tdk">¿Qué es PoseNet?</a></li>
+<li><a href="#mcetoc_1i7u7c4tdl">¿Cómo Funciona el Cambio de Imagen con Gestos del Rostro?</a></li>
+<li><a href="#mcetoc_1i7u7c4tdm">Implementación Pedagógica</a></li>
+<li><a href="#mcetoc_1i7u7c4tdn">Conclusión</a>
+<ul>
+<li><a href="#mcetoc_1i7actnb73q">Ejemplo de uso</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h3 id="mcetoc_1i7u7c4tdk">¿Qué es PoseNet?</h3>
+<p><strong><a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a></strong> es un modelo de visión por computadora que permite detectar las posiciones de las articulaciones del cuerpo humano en tiempo real. Desarrollado por Google, PoseNet utiliza redes neuronales para identificar puntos clave en el cuerpo, como los ojos, la nariz, los hombros, los codos, entre otros. Esta capacidad de detección precisa es lo que permite crear experiencias interactivas y dinámicas.</p>
+<h3 id="mcetoc_1i7u7c4tdl" class="align-center">¿Cómo Funciona el Cambio de Imagen con Gestos del Rostro?</h3>
+<p>El cambio de imagen con gestos del rostro se basa en la capacidad de <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> para rastrear y analizar los movimientos faciales. Aquí hay un desglose de cómo funciona:</p>
+<ol>
+<li><strong>Detección de Puntos Clave</strong>: <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> identifica y rastrea puntos clave en el rostro del usuario en tiempo real.</li>
+<li><strong>Análisis de Gestos</strong>: Los gestos faciales, como sonreír, fruncir el ceño o levantar las cejas, son analizados y categorizados.</li>
+<li><strong>Aplicación de Filtros</strong>: Basado en el análisis de los gestos, se aplican filtros o efectos visuales que transforman la apariencia del rostro del usuario. Esto puede incluir cambios en el color del cabello, maquillaje virtual, o incluso la adición de accesorios como gafas o sombreros.</li>
+</ol>
+<h3 id="mcetoc_1i7u7c4tdm">Implementación Pedagógica</h3>
+<p>La implementación de esta tecnología en un entorno educativo puede ser altamente beneficiosa. Aquí hay algunas ideas sobre cómo se puede utilizar pedagógicamente:</p>
+<ol>
+<li><strong>Clases de Arte y Diseño</strong>: Los estudiantes pueden usar <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> para experimentar con diferentes estilos de arte y diseño gráfico, aplicando cambios de imagen virtuales a sus retratos.</li>
+<li><strong>Educación en Tecnología</strong>: Enseñar a los estudiantes sobre IA y visión por computadora mediante la creación de proyectos interactivos que utilicen <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a>.</li>
+<li><strong>Desarrollo de Habilidades Sociales</strong>: Utilizar la tecnología para ayudar a los estudiantes a comprender y practicar la lectura de expresiones faciales y emociones, mejorando sus habilidades de comunicación interpersonal.</li>
+<li><strong>Proyectos Interdisciplinarios</strong>: Integrar <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> en proyectos que combinen arte, tecnología y ciencias sociales, fomentando la creatividad y el pensamiento crítico.</li>
+</ol>
+<h3 id="mcetoc_1i7u7c4tdn">Conclusión</h3>
+<p>El uso de <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a> y la Inteligencia Artificial para realizar cambios de imagen basados en gestos del rostro no solo es una experiencia divertida e innovadora, sino que también ofrece numerosas oportunidades pedagógicas.</p>
+<blockquote>
+<p>Al integrar esta tecnología en el aula, los educadores pueden proporcionar a los estudiantes herramientas para explorar y aprender de manera interactiva y dinámica.</p>
+</blockquote>
+<h4 id="mcetoc_1i7actnb73q">Ejemplo de uso</h4>
+<ol>
+<li>Ingrese a <a href="https://playground.raise.mit.edu/create/" target="_blank" class="extlink extlink-icon-2 "  rel="noopener noreferrer">PoseNet</a>.</li>
+<li>Descargue el archivo <a href="https://willedtech.github.io/media/files/Me-siento.sb3" target="_blank" rel="noopener noreferrer">Me siento.sb3</a></li>
+<li>Cargue el archivo en la plataforma.</li>
+<li>Inicie simulación en la Banderita Verde.</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Loro Volador</title>
         <author>
