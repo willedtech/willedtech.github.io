@@ -3,7 +3,7 @@
     <title>WillEdTech</title>
     <link href="https://willedtech.github.io/feed.xml" rel="self" />
     <link href="https://willedtech.github.io" />
-    <updated>2024-09-16T15:17:15-05:00</updated>
+    <updated>2024-09-25T21:23:03-05:00</updated>
     <author>
         <name>William Humberto Herrera Rey</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://willedtech.github.io/me-siento/"/>
         <id>https://willedtech.github.io/me-siento/</id>
         <media:content url="https://willedtech.github.io/media/posts/6/Me-Siento.gif" medium="image" />
+            <category term="Proyecto de Imágenes"/>
 
         <updated>2024-09-16T15:11:27-05:00</updated>
             <summary>
